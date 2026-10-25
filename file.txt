@@ -1,0 +1,3 @@
+Hello world
+I'm George. I'm just practising Git and Github
+So can you pls do not judge me? Thank you
